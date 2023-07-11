@@ -59,7 +59,11 @@ button {
 	font-family: "Handlee", cursive;
 	font-size: 16px;
 }
-input {
+.postcard-footer input {
 	border: none;
 	border-bottom: 1px rgb(157, 156, 156);
+}
+.postcard-body-right input {
+	border: none;
+	border-bottom: 1px grey;
 }
